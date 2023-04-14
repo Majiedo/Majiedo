@@ -3,7 +3,7 @@
 
 i'm a Software Engineer based in Saudi Arabia ☀️. I describe myself as a passionate developer who loves coding!
 
-- 📱 Checkout my live app [Listily](https://www.listily.app/) on ios platform!
+- 📱 Checkout my live app [Listily](https://apps.apple.com/sa/app/listily-tasks-reminders/id1605298296) on ios platform!
 ### 🛠 &nbsp;Tech Stack
 
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js&logoColor=339933)&nbsp;
