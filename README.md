@@ -1,1 +1,1 @@
-![](./assets/light-theme.png)
+![](./assets/background.png)
